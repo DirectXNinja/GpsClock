@@ -5,6 +5,6 @@ Written in the Arduino IDE, relays on following packages:
 2. #include <SoftwareSerial.h>
 3. #include <Adafruit_GFX.h>
 4. #include <Adafruit_SSD1306.h>
-#include <Adafruit_BMP280.h>
-#include <RTClib.h>
-#include <Adafruit_GPS.h>
+5. #include <Adafruit_BMP280.h>
+6. #include <RTClib.h>
+7. #include <Adafruit_GPS.h>
