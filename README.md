@@ -8,3 +8,6 @@ Written in the Arduino IDE, relays on following packages:
 5. #include <Adafruit_BMP280.h>
 6. #include <RTClib.h>
 7. #include <Adafruit_GPS.h>
+
+
+![foto_5905054073208370678](https://github.com/user-attachments/assets/868b11bf-e110-4fa4-af9e-5d2a78edbe80)
